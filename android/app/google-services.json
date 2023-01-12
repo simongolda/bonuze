@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1091324574106",
+    "project_id": "bonuze-app",
+    "storage_bucket": "bonuze-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091324574106:android:4656c8f5e80bce15aca223",
+        "android_client_info": {
+          "package_name": "com.simongolda.bonuze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091324574106-1jiva7k9841vhcvo2aadtmqjp71uv2bb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simongolda.bonuze",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1091324574106-48b0s9f7l2g4eb5t8ukku605a33mool1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAah7QeAQJsJ0-wsF18miAxhNsRth1Osa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091324574106-48b0s9f7l2g4eb5t8ukku605a33mool1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1091324574106-6qe6b3lvo0jqdfq6o2n9gofml93376rt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.simongolda.bonuze"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
